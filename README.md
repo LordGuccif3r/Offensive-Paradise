@@ -11,7 +11,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Cybersecurity+content+focused+on+the+offensive+side+by+Lord+Guccif3r.">
+          [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F72424&center=true&width=1000&height=100&lines=Cybersecurity+content+focused+on+the+offensive+side+by+Lord+Guccif3r.)](https://git.io/typing-svg)
         <br>
             <b>
             ~ Coming soon... ~
