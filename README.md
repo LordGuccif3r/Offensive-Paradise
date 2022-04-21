@@ -30,6 +30,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-perez-54b537204/)](https://www.linkedin.com/in/erick-perez-54b537204/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCC8Xy0XHeHxtGYJnFuM4FKQ?style=social&link=https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)](https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)
 [![Twitch Badge](https://img.shields.io/twitch/status/lord_guccif3r_?style=social&link=https://www.twitch.tv/lord_guccif3r_)](https://www.twitch.tv/lord_guccif3r_)
-<p align="center">
+
 
 
