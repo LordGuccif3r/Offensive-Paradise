@@ -23,7 +23,7 @@
 
 
 <!-- Contact Me -->
-<align="center">
+<"center">
 [![Github Badge](https://img.shields.io/website?logo=offensive-paradise&up_color=red&up_message=www.offensive-paradise.com&url=https%3A%2F%2Fwww.offensive-paradise.com%2F)](https://www.offensive-paradise.com)
 [![Github Badge](https://img.shields.io/github/stars/LordGuccif3r?color=green&label=Github&logo=github&style=social)](https://github.com/LordGuccif3r)
 [![Twitter Badge](https://img.shields.io/twitter/follow/LordGuccif3r?style=social)](https://twitter.com/Lord_Guccif3r)
