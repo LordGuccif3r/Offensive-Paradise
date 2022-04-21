@@ -11,22 +11,16 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Coming+soon...+Cybersecurity+content+focused+on+the+offensive+side+by+Lord+Guccif3r.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Cybersecurity+content+focused+on+the+offensive+side+by+Lord+Guccif3r.">
         <br>
             <b>
-            ~ Rayhan Kafi Pratama ~
+            ~ Coming soon... ~
             </b>
         <br>
       </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
-
-<details align="center">
-<summary><samp>extend</samp></summary>
-
-<h2></h2><br>
 
 <!-- Contact Me -->
 [![Github Badge](https://img.shields.io/website?logo=offensive-paradise&up_color=red&up_message=www.offensive-paradise.com&url=https%3A%2F%2Fwww.offensive-paradise.com%2F)](https://www.offensive-paradise.com)
